@@ -12,9 +12,8 @@
 > || ROM INFO ||
 - Name: Pokemon Banana Yellow ROM
 - Platform: GameBoy Advance
-- Pokemon Region: KLANG
-- PROF name: Prof. Iqhwan
-- ...
 
 > || KNOWN BUGS ||
-- ...
+- ROM's name and titlescreen still called "FireRed"
+- When losing at KG BUKIT KAPAR's gym, it send the player to somewhere else
+- Some of PROF. IQHWAN dialog messed up
