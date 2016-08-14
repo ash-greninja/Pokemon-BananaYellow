@@ -6,6 +6,7 @@
 - Original ROM: FireRed Version
 - Project Started: 14/8/2016
 - Estimated Release: 20/12/2016
+- Version: v0.1_beta814
 - ==========\
 
 > || ROM INFO ||
