@@ -7,7 +7,7 @@
 - Author: Aqil Khairy
 - Project Started: 14/8/2016
 - Estimated Release: 20/12/2016
-- Version: v0.1_beta814
+- Version: v0.1_beta815
 - ==========\
 
 > || ROM INFO ||
@@ -17,4 +17,3 @@
 > || KNOWN BUGS ||
 - ROM's name and titlescreen still called "FireRed"
 - When losing at KG BUKIT KAPAR's gym, it send the player to somewhere else
-- Some of PROF. IQHWAN dialog messed up
